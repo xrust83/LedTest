@@ -1,2 +1,2 @@
-# LedTest
-Firmware for ESP HomeKit LED
+# Homekit wifi thermostat
+Firmware for ESP HomeKit Thermostat
